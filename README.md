@@ -12,7 +12,7 @@ então mostre o seu melhor.
 
 Seu objetivo é criar o seguinte sistema utilizando a linguagem [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin):
 
-Para usuários de post-its, que não conseguem carregar seus post-its para tudo quanto é lado, o Post-IT Digital é uma aplicação que permite você ver e criar seus post-its em qualquer lugar :scream:. Ao contrário do Evernote, nosso produto é para quem tem apego a post-its.
+Para usuários de post-its, que não conseguem carregar seus post-its para tudo quanto é lado, o Post-IT Digital é uma aplicação que permite você ver e criar seus post-its em qualquer lugar :astonished:. Ao contrário do Evernote, nosso produto é para quem tem apego a post-its.
 
 ---
 
@@ -37,10 +37,10 @@ Cenario: xxxxx
 ### Requisitos
 
 1. Crie um repositório git com a estrutura:<br><br>
+README.md
 Post-IT/<br>
 ├── acesso/<br>
-├── funcionalidades/<br>
-└── README.md
+└── funcionalidades/<br>
 
 
 
