@@ -37,7 +37,7 @@ Cenario: xxxxx
 ### Requisitos
 
 1. Crie um repositório git com a estrutura:<br><br>
-README.md
+README.md <br>
 Post-IT/<br>
 ├── acesso/<br>
 └── funcionalidades/<br>
