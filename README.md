@@ -52,4 +52,6 @@ Post-IT/<br>
 * Para manipular o git recomendamos o [GitKraken](https://www.gitkraken.com/)
 * Ao termino do projeto envie o link do seu repositorio para o e-mail recrutamento@sobtic.com.br :e-mail:
 
+Obs: As sugestões acima não são pré-requisitos, o desenvolvedor pode usar o ambiente que lhe for mais confortável.
+
 Boa sorte :smile:
