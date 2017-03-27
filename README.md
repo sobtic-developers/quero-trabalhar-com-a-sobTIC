@@ -50,6 +50,6 @@ Post-IT/<br>
 
 * Sugerimos a utilização das IDE's da desenvolvedora [JetBrains](https://www.jetbrains.com/) :rocket:
 * Para manipular o git recomendamos o [GitKraken](https://www.gitkraken.com/)
-* Ao termino do projeto envie o link do seu repositorio para o e-mail infraestrutura@sobtic.com.br :e-mail:
+* Ao termino do projeto envie o link do seu repositorio para o e-mail recrutamento@sobtic.com.br :e-mail:
 
 Boa sorte :smile:
